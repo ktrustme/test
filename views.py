@@ -5,3 +5,6 @@ def fair():
     While add again1?..
     I'm not
     Marry has a small kid
+
+def happy():
+    cool
